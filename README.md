@@ -69,3 +69,39 @@ react-todo-app/
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
+## ✍️ Autor
+Desarrollado como práctica de portfolio.
+```
+
+5. En el commit escribe:
+```
+Add author section to README
+
+Co-authored-by: Claude <claude@anthropic.com>
+```
+
+6. Asegúrate de que está marcado **"Commit directly to the mejora/readme-y-templates branch"**
+7. **"Commit changes"**
+
+---
+
+**Paso 3 — Crea la Pull Request:**
+
+1. GitHub te mostrará un aviso amarillo **"Compare & pull request"** — haz clic en él
+2. Rellena así:
+
+**Título:**
+```
+Mejora del README y configuración de templates de GitHub
+```
+**Descripción:**
+```
+Este PR completa la configuración inicial del repositorio.
+
+## Cambios incluidos
+- README profesional con todas las secciones
+- Templates para Pull Requests
+- Templates para Issues (bug report y feature request)
+
+Closes #1
+Closes #2
